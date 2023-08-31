@@ -1,5 +1,5 @@
 Algoritmo "DADOS DO USUARIO"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Antonio Carlos Nicolodi
 // Autor(a)    : Isabele Miranda de Oliveira
 // Data atual  : 31/08/2023
@@ -14,6 +14,7 @@ Var
 Inicio
 
    ESCREVAL("DADOS DO USUARIO")
+   ESCREVAL("(OBS: ESCREVA COM LETRAS MAIUSCULAS)")
    ESCREVA("DIGITE O SEU NOME: ")
    LEIA(NOME)
    ESCREVAL("INFORME O SEU  SEXO: ")
@@ -23,7 +24,7 @@ Inicio
    LEIA(ESTADOCIVIL)
 
 
-   SE (ESTADOCIVIL = "CASADA") E (SEXO =  "F") ENT√O
+   SE (ESTADOCIVIL = "CASADA") E (SEXO =  "F") ENT√ÉO
       ESCREVA("QUANTOS ANOS DE CASADA? ")
       LEIA(CASADA)
 
