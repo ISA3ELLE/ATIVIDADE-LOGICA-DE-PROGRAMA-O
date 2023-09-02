@@ -1,6 +1,6 @@
 Algoritmo "DADOS DO USUARIO"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Professor   : Carlos Anderson
 // Autor(a)    : Isabele Miranda de Oliveira
 // Data atual  : 31/08/2023
 Var
