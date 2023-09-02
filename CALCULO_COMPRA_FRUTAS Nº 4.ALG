@@ -1,11 +1,11 @@
 Algoritmo "Calculo_Compra_Frutas"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
-// Professor   : Antonio Carlos Nicolodi
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
+// Professor   : Carlos Anderson
 // Autor(a)    : Isabele Miranda de Oliveira
 // Data atual  : 02/09/2023
 
 VAR
-   // Declarando as vari·veis
+   // Declarando as vari√°veis
    QuantMorangos : real
    QuantMacas : real
    valordoMorango : real
@@ -16,7 +16,7 @@ VAR
 
 
 Inicio
-   // SeÁ„o de Comandos
+   // Se√ß√£o de Comandos
    escreva ("Digite a quantidade de morangos (em Kg): ")
    leia (QuantMorangos)
 
@@ -24,7 +24,7 @@ Inicio
    leia (QuantMacas)
 
 
-   // Se, sen„o
+   // Se, sen√£o
    se(QuantMacas < 5)  entao
       valordaMaca <- QuantMacas * 1.80
    senao
@@ -48,7 +48,7 @@ Inicio
    fimse
 
    // Valor total
-   escreval("O valor a ser pago È: ", valorTotal)
+   escreval("O valor a ser pago √©: ", valorTotal)
 
 
 fimalgoritmo
