@@ -1,11 +1,8 @@
 Algoritmo "CalculoMedia"
-//
-//
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 02/09/2023
+// Disciplina :[Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor : Carlos Anderson
+// Autor (a) : ISABELE MIRANDA DE OLIVEIRA
+// Data atual : 02/09/2023
 
 Var
    nota1: real
