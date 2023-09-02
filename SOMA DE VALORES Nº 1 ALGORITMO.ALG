@@ -1,7 +1,7 @@
 Algoritmo "SOMA DE VALORES"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Soma os valores A e B e define se o valor é menor ou maior que C.
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Carlos Anderson
+// DescriÃ§Ã£o   : Soma os valores A e B e define se o valor Ã© menor ou maior que C.
 // Autor(a)    : Isabele Miranda de Oliveira
 // Data atual  : 31/08/2023
 Var
@@ -22,7 +22,7 @@ Inicio
    LEIA(C)
    
    SOMA <- A + B
-   SE SOMA < C ENTÃO
+   SE SOMA < C ENTÃƒO
       ESCREVA("A + B e menor que C")
    SENAO
       ESCREVA("A + B e maior que C")
