@@ -1,18 +1,18 @@
 Algoritmo "Calculadora"
-// Disciplina : LÛgica de ProgramaÁ„o
+// Disciplina :[Linguagem e L√≥gica de Programa√ß√£o]
 // Professor : Carlos Anderson
 // Autor (a) : ISABELE MIRANDA DE OLIVEIRA
 // Data atual : 02/09/2023
 
 Var
-// Declarando as vari·veis
+// Declarando as vari√°veis
    A , B , C : inteiro
   Operacao : caracter
    Resultado : real
 
 Inicio
-// SeÁ„o de Comandos
-   escreva ("Digite a operaÁ„o (+, -, *, ou /): ")
+// Se√ß√£o de Comandos
+   escreva ("Digite a opera√ß√£o (+, -, *, ou /): ")
    Leia (Operacao)
 
    limpatela
@@ -25,22 +25,22 @@ Inicio
 
    se Operacao = "+" Entao
       Resultado <- A + B
-      escreval ("o Resultado È: ", Resultado)
+      escreval ("o Resultado √©: ", Resultado)
    fimse
 
    se Operacao = "-" Entao
       resultado <- A - B
-      escreval ("o Resultado È: ", Resultado)
+      escreval ("o Resultado √©: ", Resultado)
    fimse
 
    se Operacao = "*" Entao
       resultado <- A * B
-      escreval ("o Resultado È: ", Resultado)
+      escreval ("o Resultado √©: ", Resultado)
    fimse
 
    se Operacao = "/" Entao
       Resultado <- (A / B)
-      escreval ("o Resultado È: ", Resultado)
+      escreval ("o Resultado √©: ", Resultado)
    fimse
 
 
