@@ -1,6 +1,6 @@
 Algoritmo "Comparacao_e_Operacao"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Carlos Anderson
 // Autor(a)    : Isabele Miranda de Oliveira
 // Data atual  : 02/09/2023
 Var
